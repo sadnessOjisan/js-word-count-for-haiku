@@ -1,7 +1,7 @@
 {
   "name": "js-word-count-for-haiku",
   "version": "1.0.1",
-  "main": "index.js",
+  "main": "./dist/build.js",
   "repository": "https://github.com/sadnessOjisan/js-word-count-for-haiku.git",
   "author": "sadness_ojisan <sadness.ojisan@gmail.com>",
   "license": "MIT",
